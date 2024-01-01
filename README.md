@@ -1,12 +1,10 @@
-# 😎 Awesome Page
+**😎 Awesome Page**
 
----
+[TOC]
 
 
 
 # Generation
-
----
 
 ## 📹 Video Generation
 
@@ -40,8 +38,6 @@
 
 # Multimodal MLLM
 
----
-
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/bradyfu/awesome-multimodal-large-language-models#awesome-papers)
   - Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 - 
@@ -64,16 +60,12 @@
 
 # Tutorials
 
----
-
 - [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 - 
 
 
 
 # Time-Series
-
----
 
 - [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library)
   - A Library for Advanced Deep Time Series Models.
@@ -85,8 +77,6 @@
 
 # Detection
 
----
-
 - [IDEA-Research/awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer)
   -  Awesome Detection Transformer for Computer Vision (CV)
 
@@ -96,8 +86,6 @@
   - A paper list of Lane detection.
 
 # Paper
-
----
 
 - [amusi/CVPR2023](https://github.com/amusi/CVPR2023-Papers-with-Code)
   - Papers-with-Code: CVPR 2023 论文和开源项目合集
